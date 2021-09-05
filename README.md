@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brumla
+- 👀 I’m interested in Python, C#, Flutter, Qt/C++
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: some Discord channels (as brumla)
