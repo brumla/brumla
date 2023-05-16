@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @brumla
-- 👀 I’m interested in Python, C#, Flutter, Qt/C++
-- 🌱 I’m currently learning Flutter
+- 👀 I'm interested in Python, C#, Flutter, Qt/C++
+- 🏢 I'm working as senior software developer
 - 📫 How to reach me: some Discord channels (as brumla)
